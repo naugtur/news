@@ -43,7 +43,7 @@ https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/
 https://github.com/tc39/proposal-import-sync
 
 ### podcasts
-- Jsparty podcast has ended, but you can still listen to it
+- JSParty podcast has ended, but you can still listen to it
 https://changelog.com/jsparty/350
 - dysfunctional podcast starts
 https://dysfunctional.fm/
