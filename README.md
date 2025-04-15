@@ -2,6 +2,9 @@
 
 ## 2025-04
 
+### Gamedev.js Jam 
+ - just started, you got till 26. Prize pool up to 100 000 PLN
+
 ### JS/AI security
 
 - I mean, you did hear about vibe coding, right?
