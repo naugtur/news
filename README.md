@@ -10,7 +10,7 @@
 ### TC39
 
 - session is going right now!
-- record and tuple withdrawn https://github.com/tc39/proposal-record-tuple
+- record and tuple withdrawn https://github.com/tc39/proposal-record-tuple and  somewhat replaced with Composite https://github.com/tc39/proposal-composites
 - upsert for Map https://github.com/tc39/proposal-upsert?tab=readme-ov-file#grouping-data-incrementally
 
 ### CSS news
