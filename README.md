@@ -1,5 +1,30 @@
 # Subjective list of JS news
 
+## 2025-04
+
+### JS/AI security
+
+- I mean, you did hear about vibe coding, right?
+- slopsquatting https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks
+
+### TC39
+
+- session is going right now!
+- record and tuple withdrawn https://github.com/tc39/proposal-record-tuple
+- upsert for Map https://github.com/tc39/proposal-upsert?tab=readme-ov-file#grouping-data-incrementally
+
+### CSS news
+
+- Adam Argyle laid off https://nerdy.dev/ex-googler
+
+### Node.js 
+
+- End-of-life versions are now getting a CVE https://nodejs.org/en/blog/vulnerability/updates-cve-for-end-of-life
+- Last change to get Node.js certified (basic stuff) https://training.linuxfoundation.org/openjs/ - foundation is shutting down the exams.
+
+---
+
+## 2025-02
 ### node and esm
 - Joyee makes require(esm) work in 23 and back ports down to 20
 https://socket.dev/blog/require-esm-backported-to-node-js-20
